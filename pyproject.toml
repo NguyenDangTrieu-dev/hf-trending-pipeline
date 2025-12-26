@@ -1,0 +1,14 @@
+[project]
+name = "hf-trending-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "openai>=2.14.0",
+    "opentelemetry-exporter-otlp>=1.39.1",
+    "opentelemetry-sdk>=1.39.1",
+    "pydantic>=2.12.5",
+    "requests>=2.32.5",
+]
