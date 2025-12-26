@@ -21,7 +21,7 @@ Pipeline crawl HuggingFace Trending Papers, dùng Groq LLM để parse dữ li�
 `pip install uv`
 
 ### 2️⃣ Clone project
-`git clone <your-repo-url>
+`git clone https://github.com/NguyenDangTrieu-dev/hf-trending-pipeline.git
 cd hf_trending_pipeline`
 
 ### 3️⃣ Cài dependencies
